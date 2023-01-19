@@ -1,0 +1,35 @@
+table{
+    border: solid  2px hwb(141 20% 75%);
+    border: outset;
+     width: 700px;
+    height: 200px;
+    text-align: center;
+    color: hwb(0 9% 36%);
+ 
+}
+
+th{
+    background-color: rgb(2, 128, 86);
+   
+    border: solid rgb(205, 194, 194) 1px;
+    
+   
+}
+tr{
+    border: solid rgb(218, 214, 214) 1px;
+    background-color: rgb(244, 232, 184); 
+  
+}
+td{
+    border: solid black 2px; 
+    font-weight: bold;
+   
+}
+.fila1{
+    background-color: rgb(243, 181, 101);
+    text-align: center;
+}
+.fila2{
+    background-color: yellow;
+
+}
